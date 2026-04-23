@@ -1,5 +1,5 @@
 ---
 layout: null
-permalink: /.well-known/security.txt
+permalink: /security.txt
 ---
 {% include security-txt-content.txt %}
