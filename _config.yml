@@ -196,7 +196,3 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-
-htmlproofer:
-  ignore_urls:
-    - "http://news.bbc.co.uk/2/hi/africa/3887493.stm"

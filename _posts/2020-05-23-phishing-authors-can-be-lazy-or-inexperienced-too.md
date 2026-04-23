@@ -148,6 +148,6 @@ So this basic phishing email led us to discovering a publicly accessible web-she
 
 As you can see, phishing emails can sometimes be a source of fun — but only if you are careful!
 
-Another great source of fun can sometimes be to reply to phishing and spam emails. As an example, I recommend reading this old but gold [article](http://news.bbc.co.uk/2/hi/africa/3887493.stm) about a scammer who got scammed by his victim — the story of the Church of The Order of The Red Breast. There are many more stories to be found on the internet if you look for them.
+Another great source of fun can sometimes be to reply to phishing and spam emails. As an example, I recommend reading this old but gold [article](https://news.bbc.co.uk/2/hi/africa/3887493.stm) about a scammer who got scammed by his victim — the story of the Church of The Order of The Red Breast. There are many more stories to be found on the internet if you look for them.
 
 If you decide to try any of these I must warn you to always be very careful. I recommend replying from a dummy email address (not your main or secondary address) as attackers usually don't care if the reply comes from a different address than the one they originally targeted.
