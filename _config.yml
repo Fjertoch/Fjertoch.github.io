@@ -188,6 +188,9 @@ exclude:
   - "package*.json"
   - vendor/bundle
 
+include:
+  - .well-known
+
 jekyll-archives:
   enabled: [categories, tags]
   layouts:

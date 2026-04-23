@@ -1,0 +1,4 @@
+Contact: mailto:milan@habrcetl.cz
+Expires: 2040-01-01T00:00:00.000Z
+Preferred-Languages: en, cs
+Canonical: https://habrcetl.cz/.well-known/security.txt
