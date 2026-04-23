@@ -4,3 +4,4 @@ permalink: /security.txt
 content_type: text/plain
 ---
 {% include security-txt-content.txt %}
+Canonical: https://habrcetl.cz/security.txt
