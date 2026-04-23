@@ -1,5 +1,6 @@
 ---
 layout: null
 permalink: /security.txt
+content_type: text/plain
 ---
 {% include security-txt-content.txt %}
