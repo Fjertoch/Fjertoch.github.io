@@ -1,36 +1,21 @@
 {
-  "name": "Milan Habrcetl",
-  "short_name": "MH",
-  "description": "Security researcher & red teamer",
+  "name": "Milan Habrcetl's Blog",
+  "short_name": "Habrcetl Blog",
   "icons": [
     {
-      "src": "/assets/img/favicons/favicon-16x16.png",
-      "sizes": "16x16",
-      "type": "image/png"
-    },
-    {
-      "src": "/assets/img/favicons/favicon-32x32.png",
-      "sizes": "32x32",
-      "type": "image/png"
-    },
-    {
-      "src": "/assets/img/favicons/apple-touch-icon.png",
-      "sizes": "180x180",
-      "type": "image/png"
-    },
-    {
-      "src": "/assets/img/favicons/android-chrome-192x192.png",
+      "src": "/assets/img/favicons/web-app-manifest-192x192.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "maskable"
     },
     {
-      "src": "/assets/img/favicons/android-chrome-512x512.png",
+      "src": "/assets/img/favicons/web-app-manifest-512x512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ],
-  "theme_color": "#1a1a2e",
-  "background_color": "#1a1a2e",
-  "display": "standalone",
-  "start_url": "/"
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "standalone"
 }
